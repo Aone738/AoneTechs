@@ -1,0 +1,48 @@
+/* Set default font and background color for the entire page */
+body {
+    font-family: Arial, sans-serif;
+    background-color: hsla(236, 92%, 90%, 0.993);
+    }
+    /* Style the body content */
+    main {
+    margin: 20px;
+    }
+    
+    /* Style the list */
+    section h2 {
+    color: #bb6546;
+    border-bottom: 2px solid #c26d4e;
+    padding-bottom: 5px;
+    margin-bottom: 20px;
+    }
+    
+    /* Style the list link */
+    ul {
+    list-style: disc;
+    margin-left: 20px;
+    }
+    
+    /* Style the images */
+    img {https://th.bing.com/th/id/OIP.xM6c-RhigExYl19UbYzi2gHaJ4?pid=ImgDet&rs=1}
+    display: block;
+    margin: 20px auto;
+    max-width: 100%;
+    }
+    
+    /* Style the footer */
+    footer {
+    background-color: #ffd700;
+    padding: 10px;
+    text-align: center;
+    }
+    
+    /* Style links */
+    a {
+    color: #ff7f50;
+    text-decoration: goldenrod;
+    }
+    
+    a:hover {
+    color: #232b30;
+    }
+    /* style the form */
